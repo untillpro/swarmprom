@@ -12,7 +12,7 @@ and [Unsee](https://github.com/cloudflare/unsee).
 Clone this repository and run the monitoring stack:
 
 ```bash
-$ git clone https://github.com/stefanprodan/swarmprom.git
+$ git clone https://github.com/untillpro/swarmprom.git
 $ cd swarmprom
 
 ADMIN_USER=admin \

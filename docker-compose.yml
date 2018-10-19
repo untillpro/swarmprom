@@ -2,8 +2,7 @@ version: "3.3"
 
 networks:
   net:
-    driver: overlay
-    attachable: true
+    external: true
 
 volumes:
     prometheus: {}

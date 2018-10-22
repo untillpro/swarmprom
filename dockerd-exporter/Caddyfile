@@ -4,5 +4,5 @@
         }
 
     errors stderr
-    tls off
+    tls self_signed
 }

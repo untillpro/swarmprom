@@ -5,7 +5,7 @@
         }
 
     errors stderr
-    tls off
+    tls on
 }
 
 :9093 {
@@ -15,7 +15,7 @@
         }
 
     errors stderr
-    tls off
+    tls on
 }
 
 :9094 {
@@ -25,7 +25,7 @@
         }
 
     errors stderr
-    tls off
+    tls on
 }
 
 :3000 {
@@ -35,6 +35,6 @@
         }
 
     errors stderr
-    tls off
+    tls on
 }
 

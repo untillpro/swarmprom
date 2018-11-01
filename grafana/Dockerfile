@@ -1,4 +1,4 @@
-FROM grafana/grafana:5.0.1
+FROM grafana/grafana:5.3.2
 # https://hub.docker.com/r/grafana/grafana/tags/
 
 COPY datasources /etc/grafana/provisioning/datasources/
